@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "jspdf": "^3.0.4",
+    "jspdf-autotable": "^5.0.7"
+  }
+}
